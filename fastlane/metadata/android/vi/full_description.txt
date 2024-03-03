@@ -1,6 +1,6 @@
-Element vừa là một ứng dụng nhắn tin bảo mật vừa là một ứng dụng cộng tác nhóm năng suất, lý tưởng cho các cuộc trò chuyện nhóm khi làm việc từ xa. Ứng dụng trò chuyện này sử dụng mã hóa đầu cuối để cung cấp tính năng hội thảo truyền hình, chia sẻ tệp và cuộc gọi thoại mạnh mẽ.
+PL Comms vừa là một ứng dụng nhắn tin bảo mật vừa là một ứng dụng cộng tác nhóm năng suất, lý tưởng cho các cuộc trò chuyện nhóm khi làm việc từ xa. Ứng dụng trò chuyện này sử dụng mã hóa đầu cuối để cung cấp tính năng hội thảo truyền hình, chia sẻ tệp và cuộc gọi thoại mạnh mẽ.
 
-<b>Các tính năng của Element bao gồm:</b>
+<b>Các tính năng của PL Comms bao gồm:</b>
 - Công cụ giao tiếp trực tuyến nâng cao
 - Các tin nhắn được mã hóa hoàn toàn để cho phép liên lạc doanh nghiệp an toàn hơn, ngay cả đối với những người làm việc từ xa
 - Trò chuyện phi tập trung dựa trên khung mã nguồn mở Matrix
@@ -8,26 +8,26 @@ Element vừa là một ứng dụng nhắn tin bảo mật vừa là một ứn
 - Trò chuyện video với gọi thoại qua giao thức Internet (VoIP) và chia sẻ màn hình
 - Tích hợp dễ dàng với các công cụ cộng tác trực tuyến yêu thích của bạn, công cụ quản lý dự án, dịch vụ VoIP và các ứng dụng nhắn tin nhóm khác
 
-Element hoàn toàn khác với các ứng dụng nhắn tin và cộng tác khác. Hoạt động trên Matrix, một mạng mở để nhắn tin bảo mật và giao tiếp phi tập trung. Đồng thời, cho phép tự vận hành để cung cấp cho người dùng quyền sở hữu và kiểm soát tối đa dữ liệu và tin nhắn của họ.
+PL Comms hoàn toàn khác với các ứng dụng nhắn tin và cộng tác khác. Hoạt động trên Matrix, một mạng mở để nhắn tin bảo mật và giao tiếp phi tập trung. Đồng thời, cho phép tự vận hành để cung cấp cho người dùng quyền sở hữu và kiểm soát tối đa dữ liệu và tin nhắn của họ.
 
 <b>Nhắn tin mã hóa và riêng tư</b>
-Element bảo vệ bạn khỏi các quảng cáo không mong muốn, khai thác dữ liệu và kiểm soát khu vực. Element cũng bảo mật tất cả dữ liệu của bạn, truyền hình 1-1 và giao tiếp thoại thông qua mã hóa đầu cuối và xác thực chéo thiết bị.
+PL Comms bảo vệ bạn khỏi các quảng cáo không mong muốn, khai thác dữ liệu và kiểm soát khu vực. PL Comms cũng bảo mật tất cả dữ liệu của bạn, truyền hình 1-1 và giao tiếp thoại thông qua mã hóa đầu cuối và xác thực chéo thiết bị.
 
-Element cung cấp cho bạn quyền kiểm soát quyền riêng tư của mình đồng thời cho phép bạn giao tiếp bảo mật với bất kỳ ai trên mạng Matrix hoặc các công cụ cộng tác kinh doanh khác bằng cách tích hợp với các ứng dụng như Slack.
+PL Comms cung cấp cho bạn quyền kiểm soát quyền riêng tư của mình đồng thời cho phép bạn giao tiếp bảo mật với bất kỳ ai trên mạng Matrix hoặc các công cụ cộng tác kinh doanh khác bằng cách tích hợp với các ứng dụng như Slack.
 
-<b>Element có thể được tự vận hành</b>
-Để cho phép kiểm soát nhiều hơn dữ liệu nhạy cảm và các cuộc trò chuyện của bạn, Element có thể được tự vận hành hoặc bạn có thể chọn bất kỳ máy chủ Matrix nào - tiêu chuẩn cho giao tiếp phi tập trung, mã nguồn mở. Element cung cấp cho bạn quyền riêng tư, tuân thủ bảo mật và tính linh hoạt trong tích hợp.
+<b>PL Comms có thể được tự vận hành</b>
+Để cho phép kiểm soát nhiều hơn dữ liệu nhạy cảm và các cuộc trò chuyện của bạn, PL Comms có thể được tự vận hành hoặc bạn có thể chọn bất kỳ máy chủ Matrix nào - tiêu chuẩn cho giao tiếp phi tập trung, mã nguồn mở. PL Comms cung cấp cho bạn quyền riêng tư, tuân thủ bảo mật và tính linh hoạt trong tích hợp.
 
 <b>Sở hữu dữ liệu của bạn</b>
 Bạn quyết định nơi lưu trữ dữ liệu và tin nhắn của mình. Không có rủi ro khai thác dữ liệu hoặc truy cập từ bên thứ ba.
 
-Element giúp bạn kiểm soát theo những cách khác nhau:
+PL Comms giúp bạn kiểm soát theo những cách khác nhau:
 1. Tạo một tài khoản miễn phí trên máy chủ công cộng matrix.org do các nhà phát triển Matrix vận hành hoặc chọn từ hàng nghìn máy chủ công cộng do các tình nguyện viên vận hành
 2. Tự lưu trữ tài khoản của bạn bằng cách chạy một máy chủ trên cơ sở hạ tầng CNTT của riêng bạn
-3. Đăng ký tài khoản trên máy chủ tùy chỉnh bằng cách chỉ cần đăng ký nền tảng Element Matrix Services hosting
+3. Đăng ký tài khoản trên máy chủ tùy chỉnh bằng cách chỉ cần đăng ký nền tảng PL Comms Matrix Services hosting
 
 <b>Nhắn tin và cộng tác mở</b>
-Bạn có thể trò chuyện với bất kỳ ai trên mạng Matrix, cho dù họ đang sử dụng Element, một ứng dụng Matrix khác hay ngay cả khi họ đang sử dụng một ứng dụng nhắn tin khác.
+Bạn có thể trò chuyện với bất kỳ ai trên mạng Matrix, cho dù họ đang sử dụng PL Comms, một ứng dụng Matrix khác hay ngay cả khi họ đang sử dụng một ứng dụng nhắn tin khác.
 
 <b>Siêu bảo mật</b>
 Mã hóa đầu-cuối có thực (chỉ những người trong cuộc trò chuyện mới có thể giải mã tin nhắn) và xác thực chéo thiết bị.
@@ -39,4 +39,4 @@ Nhắn tin, gọi thoại và truyền hình, chia sẻ tệp, chia sẻ màn h�
 Giữ liên lạc mọi lúc mọi nơi với lịch sử tin nhắn được đồng bộ hóa hoàn toàn trên tất cả các thiết bị của bạn và trên web tại https://app.element.io
 
 <b>Mã nguồn mở</b>
-Element Android là một dự án mã nguồn mở, được lưu trữ trên GitHub. Vui lòng báo cáo lỗi và / hoặc đóng góp, phát triển tại https://github.com/element-hq/element-android
+PL Comms Android là một dự án mã nguồn mở, được lưu trữ trên GitHub. Vui lòng báo cáo lỗi và / hoặc đóng góp, phát triển tại https://github.com/element-hq/element-android

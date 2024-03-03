@@ -1,2 +1,2 @@
-Главные изменения этой версии: Element для Android теперь использует Crypto Rust SDK.
+Главные изменения этой версии: PL Comms для Android теперь использует Crypto Rust SDK.
 Полный список изменений: https://github.com/element-hq/element-android/releases
