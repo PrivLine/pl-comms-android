@@ -4,13 +4,15 @@
     android:opacity="opaque">
 
     <!-- Background color -->
-    <item android:drawable="?colorPrimary" />
+    <item android:drawable="@color/palette_gray_450" />
 
     <!-- Centered logo -->
     <item>
         <bitmap
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:gravity="center"
-            android:src="@drawable/element_splash_white" />
+            android:src="@drawable/privateline_splash_white" />
     </item>
 
 </layer-list>

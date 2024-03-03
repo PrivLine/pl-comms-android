@@ -5,8 +5,8 @@
     <style name="Theme.Vector.Launcher" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/splash</item>
         <item name="colorPrimary">@color/element_accent_light</item>
-        <item name="android:statusBarColor">@color/element_accent_light</item>
-        <item name="android:navigationBarColor">@color/element_accent_light</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
 
     <style name="Theme.Vector.Black.AttachmentsPreview">
