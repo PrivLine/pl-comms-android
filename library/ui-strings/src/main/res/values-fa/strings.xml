@@ -465,7 +465,7 @@
     <string name="room_filtering_filter_hint">پالایش گفت‌وگوها…</string>
     <string name="room_filtering_footer_create_new_room">ایجاد اتاقی جدید</string>
     <string name="room_filtering_footer_create_new_direct_message">فرستادن یک پیام مستقیم جدید</string>
-    <string name="room_directory_search_hint">نام یا شناسه (‪#example:matrix.org‬)</string>
+    <string name="room_directory_search_hint">نام یا شناسه (‪#example:mtxnode1.privateline.dev‬)</string>
     <string name="labs_swipe_to_reply_in_timeline">به کار انداختن کشیدن برای پاسخ در خط زمانی</string>
     <string name="a11y_create_direct_message">ایجاد یک گفت‌وگوی مستقیم جدید</string>
     <string name="a11y_create_room">ایجاد اتاقی جدید</string>
@@ -1389,7 +1389,7 @@
     <string name="login_a11y_captcha_container">لطفا کپچا را حل کنید</string>
     <string name="login_a11y_choose_other">گزینش یک کارساز خانگی سفارشی</string>
     <string name="login_a11y_choose_modular">گزینش خدمات ماتریکس المنت</string>
-    <string name="login_a11y_choose_matrix_org">انتخاب matrix.org</string>
+    <string name="login_a11y_choose_matrix_org">انتخاب mtxnode1.privateline.dev</string>
     <string name="login_signup_cancel_confirmation_content">حسابتان هنوز ایجاد نشده. توقّف فرآیند ثبت‌نام؟</string>
     <string name="login_signin_username_hint">نام‌کاربری یا رایانامه</string>
     <string name="login_signup_to">ثبت نام در %1$s</string>

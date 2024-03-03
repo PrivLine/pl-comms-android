@@ -299,7 +299,7 @@
     <string name="incoming_voice_call">Ienākošs AUDIO zvans</string>
     <string name="call_in_progress">Notiek zvans…</string>
     <string name="call_error_user_not_responding">Adresāts neatbildēja uz zvanu.</string>
-    <string name="permissions_rationale_popup_title">Element informācija</string>
+    <string name="permissions_rationale_popup_title">PL Comms informācija</string>
     <string name="permissions_rationale_msg_record_audio">${app_name}-am nepieciešama atļauja piekļūt mikrofonam, lai nodrošinātu audio zvanus.</string>
     <string name="permissions_rationale_msg_camera_and_audio">${app_name} nepieciešama atļauja piekļūt kamerai un mikrofonam, lai veiktu videozvanus.
 \n
@@ -1049,8 +1049,8 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
     <string name="login_terms_title">Pieņemt noteikumus, lai turpinātu</string>
     <string name="login_a11y_captcha_container">Lūdzu, veiciet CAPTCHA izaicinājumu</string>
     <string name="login_a11y_choose_other">Izvēlēties pielāgotu mājasserveri</string>
-    <string name="login_a11y_choose_modular">Izvēlēties Element Matrix Services</string>
-    <string name="login_a11y_choose_matrix_org">Izvēlēties matrix.org</string>
+    <string name="login_a11y_choose_modular">Izvēlēties PL Comms Matrix Services</string>
+    <string name="login_a11y_choose_matrix_org">Izvēlēties mtxnode1.privateline.dev</string>
     <string name="login_signup_cancel_confirmation_content">Konts vēl nav izveidots. Vai pārtraukt reģistrēšanos\?</string>
     <string name="login_set_msisdn_notice2">Lūdzu, izmantojiet starptautisko formātu.</string>
     <string name="login_set_msisdn_notice">Jānorāda tālruņa numurs, lai pēc izvēles ļauti sevi atklāt zināmiem cilvēkiem.</string>
@@ -1078,15 +1078,15 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
 \nVai pieteikties tīmekļa klientā\?</string>
     <string name="login_sso_error_message">Radās kļūda, ielādējot lapu: %1$s (%2$d)</string>
     <string name="login_server_url_form_common_notice">Ievadiet servera adresi, kuru vēlaties izmantot</string>
-    <string name="login_server_url_form_modular_notice">Ievadiet Modular Element vai servera adresi, kuru vēlaties izmantot</string>
+    <string name="login_server_url_form_modular_notice">Ievadiet Modular PL Comms vai servera adresi, kuru vēlaties izmantot</string>
     <string name="login_server_url_form_modular_text">Premium hostings organizācijām</string>
     <string name="login_server_url_form_other_hint">Adrese</string>
-    <string name="login_server_url_form_modular_hint">Element Matrix Services adrese</string>
+    <string name="login_server_url_form_modular_hint">PL Comms Matrix Services adrese</string>
     <string name="login_clear_homeserver_history">Attīrīt vēsturi</string>
     <string name="login_signin_sso">Turpināt, izmantojot SSO</string>
     <string name="login_signin_to">Pierakstīties uz %1$s</string>
     <string name="login_connect_to_a_custom_server">Pieslēgšanās pielāgotam serverim</string>
-    <string name="login_connect_to_modular">Pieslēgšanās Element Matrix Services</string>
+    <string name="login_connect_to_modular">Pieslēgšanās PL Comms Matrix Services</string>
     <string name="login_connect_to">Pieslēgšanās %1$s</string>
     <string name="login_social_sso">vienotā pierakstīšanās</string>
     <string name="login_social_signin_with">Pierakstīties ar %s</string>
@@ -1118,7 +1118,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
     <string name="attachment_type_file">Fails</string>
     <string name="attachment_type_dialog_title">Pievienot attēlu no</string>
     <string name="qr_code">QR kods</string>
-    <string name="room_directory_search_hint">Nosaukums vai ID (#piemers:matrix.org)</string>
+    <string name="room_directory_search_hint">Nosaukums vai ID (#piemers:mtxnode1.privateline.dev)</string>
     <string name="room_filtering_footer_open_room_directory">Atvērt istabu katalogu</string>
     <string name="room_filtering_footer_create_new_direct_message">Sūtīt jaunu tiešo ziņu</string>
     <string name="room_filtering_footer_create_new_room">Izveidot jaunu istabu</string>
@@ -1168,7 +1168,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
     <string name="disclaimer_positive_button">UZZINĀT VAIRĀK</string>
     <string name="disclaimer_negative_button">SAPRATU</string>
     <string name="disclaimer_content">Esam priecīgi paziņot, ka mēs esam mainījuši nosaukumu. Lietotne ir atjaunināta, un Tu esi pierakstījies savā kontā.</string>
-    <string name="disclaimer_title">Riot tagad saucas Element!</string>
+    <string name="disclaimer_title">Riot tagad saucas PL Comms!</string>
     <string name="notice_crypto_unable_to_decrypt_merged">Gaida šifrēšanas vēsturi</string>
     <string name="room_settings_save_success">Tu veiksmīgi nomainīji istabas iestatījumus</string>
     <string name="power_level_title">Loma</string>
@@ -2159,7 +2159,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
 \n
 \nTas nodrošina viņiem pārliecību, ka viņi tiešām runā ar Tevi, bet tas arī nozīmē, ka viņi var redzēt šeit ievadītās sesijas nosaukumu.</string>
     <string name="threads_notice_migration_title">Pavedieni tuvojas Beta 🎉</string>
-    <string name="labs_enable_new_app_layout_summary">Vienkāršots Element ar cilnēm pēc izvēles</string>
+    <string name="labs_enable_new_app_layout_summary">Vienkāršots PL Comms ar cilnēm pēc izvēles</string>
     <string name="labs_enable_deferred_dm_title">Iespējot atliktās tiešās ziņas</string>
     <string name="space_list_empty_message">Vietas ir jauns veids, kā apkopot istabas un cilvēkus. Jāizveido vieta, lai sāktu.</string>
     <string name="room_unsupported_e2e_algorithm">Šifrēšanas konfigurācijā ir kļūmes, tādēļ nevar nosūtīt ziņas. Lūgums sazināties ar pārvaldītāju, lai atjaunotu šifrēšanu derīgā stāvoklī.</string>
@@ -2289,7 +2289,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
     <string name="ftue_auth_use_case_connect_to_server">Savienoties ar serveri</string>
     <string name="ftue_auth_create_account_username_entry_footer">Citi var atrast Tevi ar %s</string>
     <string name="ftue_auth_choose_server_sign_in_subtitle">Kāda ir servera adrese\?</string>
-    <string name="ftue_auth_choose_server_ems_subtitle">Element Matrix Services (EMS) ir noturīgs un uzticams izvietošanas pakalpojums ātrai, drošai un reāllaika saziņai. Vairāk var uzzināt &lt;a href=\"${ftue_ems_url}\"&gt;element.io/ems&lt;/a&gt;</string>
+    <string name="ftue_auth_choose_server_ems_subtitle">PL Comms Matrix Services (EMS) ir noturīgs un uzticams izvietošanas pakalpojums ātrai, drošai un reāllaika saziņai. Vairāk var uzzināt &lt;a href=\"${ftue_ems_url}\"&gt;element.io/ems&lt;/a&gt;</string>
     <string name="ftue_auth_email_title">Ievadīt e-pasta adresi</string>
     <string name="ftue_auth_email_verification_subtitle">Jāseko norādēm, kas tika nosūtītas uz %s</string>
     <string name="ftue_auth_password_reset_confirmation">Paroles atiestatīšana</string>
@@ -2823,7 +2823,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
     <string name="device_manager_session_details_device_operating_system">Operētājsistēma</string>
     <string name="device_manager_learn_more_sessions_verified_title">Apliecinātas sesijas</string>
     <string name="screen_sharing_notification_description">Notiek ekrāna kopīgošana</string>
-    <string name="labs_enable_element_call_permission_shortcuts_summary">Automātiski apstiprināt Element zvanu logrīkus un piešķirt piekļuvi kamerai/mikrofonam</string>
+    <string name="labs_enable_element_call_permission_shortcuts_summary">Automātiski apstiprināt PL Comms zvanu logrīkus un piešķirt piekļuvi kamerai/mikrofonam</string>
     <string name="device_manager_filter_bottom_sheet_title">Atlase</string>
     <string name="device_manager_other_sessions_recommendation_title_unverified">Neapliecinātas</string>
     <string name="device_manager_session_details_application">Lietotne</string>
@@ -2915,7 +2915,7 @@ Nākotnē šī pārbaudes procedūra plānota sarežģītāka.</string>
         <item quantity="one">Jāapsver atteikšanās no vecajām sesijām (%1$d diena vai vairāk), kas vairs netiek izmantotas.</item>
         <item quantity="other">Jāapsver atteikšanās no vecajām sesijām (%1$d dienas vai vairāk), kas vairs netiek izmantotas.</item>
     </plurals>
-    <string name="labs_enable_element_call_permission_shortcuts">Iespējot Element zvanu atļauju īsceļus</string>
+    <string name="labs_enable_element_call_permission_shortcuts">Iespējot PL Comms zvanu atļauju īsceļus</string>
     <string name="device_manager_session_last_activity">Pēdējā darbība %1$s</string>
     <string name="device_manager_sessions_other_description">Vislielākajai drošībai jāapliecina savas sesijas un jāatsakās no jebkuras neatpazītas vai neizmantotas sesijas.</string>
     <string name="device_manager_filter_option_unverified">Neapliecinātas</string>

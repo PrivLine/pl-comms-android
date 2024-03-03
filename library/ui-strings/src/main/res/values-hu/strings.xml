@@ -858,7 +858,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="room_filtering_footer_create_new_room">Új szoba készítése</string>
     <string name="room_filtering_footer_create_new_direct_message">Új közvetlen beszélgetés indítása</string>
     <string name="room_filtering_footer_open_room_directory">Szoba lista megjelenítése</string>
-    <string name="room_directory_search_hint">Név vagy azonosító (#pelda:matrix.org)</string>
+    <string name="room_directory_search_hint">Név vagy azonosító (#pelda:mtxnode1.privateline.dev)</string>
     <string name="labs_swipe_to_reply_in_timeline">Válasz engedélyezése húzással az idővonalon</string>
     <string name="link_copied_to_clipboard">Hivatkozás a vágólapra másolva</string>
     <string name="settings_integration_manager">Integrációs Menedzser</string>
@@ -1008,16 +1008,16 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="login_server_other_text">Másik szerver cím megadása</string>
     <string name="login_continue">Folytatás</string>
     <string name="login_connect_to">Csatlakozás ide: %1$s</string>
-    <string name="login_connect_to_modular">Csatlakozás Element Matrix Services hoz</string>
+    <string name="login_connect_to_modular">Csatlakozás PL Comms Matrix Services hoz</string>
     <string name="login_connect_to_a_custom_server">Csatlakozás egyedi matrix szerverhez</string>
     <string name="login_signin_to">Bejelentkezés ide: %1$s</string>
     <string name="login_signup">Fiók készítés</string>
     <string name="login_signin">Bejelentkezés</string>
     <string name="login_signin_sso">SSO-val való folytatás</string>
-    <string name="login_server_url_form_modular_hint">Element Matrix Services Cím</string>
+    <string name="login_server_url_form_modular_hint">PL Comms Matrix Services Cím</string>
     <string name="login_server_url_form_other_hint">Cím</string>
     <string name="login_server_url_form_modular_text">Prémium szerverüzemeltetés szervezetek részére</string>
-    <string name="login_server_url_form_modular_notice">Add meg az általad használt Modular szerver, vagy a hozzá tartozó Element címét</string>
+    <string name="login_server_url_form_modular_notice">Add meg az általad használt Modular szerver, vagy a hozzá tartozó PL Comms címét</string>
     <string name="login_sso_error_message">Az oldal betöltésekor hiba történt: %1$s (%2$d)</string>
     <string name="login_registration_disabled">Ne haragudj, ez a szerver nem fogad új fiókokat.</string>
     <string name="login_login_with_email_error">Ez az e-mail cím egyik fiókhoz sincs társítva.</string>
@@ -1073,8 +1073,8 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="login_signup_error_user_in_use">A felhasználónév már használatban van</string>
     <string name="login_signup_cancel_confirmation_title">Figyelmeztetés</string>
     <string name="login_signup_cancel_confirmation_content">A felhasználói fiókod még nincs kész. Félbehagyod a regisztrációt\?</string>
-    <string name="login_a11y_choose_matrix_org">matrix.org kiválasztása</string>
-    <string name="login_a11y_choose_modular">Element Matrix Services kiválasztása</string>
+    <string name="login_a11y_choose_matrix_org">mtxnode1.privateline.dev kiválasztása</string>
+    <string name="login_a11y_choose_modular">PL Comms Matrix Services kiválasztása</string>
     <string name="login_a11y_choose_other">Egyedi matrix szerver kiválasztása</string>
     <string name="login_a11y_captcha_container">Kérlek old meg a captcha-t</string>
     <string name="login_terms_title">Folytatáshoz fogadd el a feltételeket</string>
@@ -1554,7 +1554,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="crypto_error_withheld_unverified">Nem érheted el ezt az üzenetet, mert a feladó nem bízik a munkamenetedben</string>
     <string name="crypto_error_withheld_generic">Nem érheted el ezt az üzenetet, mert a feladó szándékosan nem küldte el a kulcsokat</string>
     <string name="notice_crypto_unable_to_decrypt_merged">Várakozás a titkosítási előzményekre</string>
-    <string name="disclaimer_title">A Riot mostantól Element!</string>
+    <string name="disclaimer_title">A Riot mostantól PL Comms!</string>
     <string name="disclaimer_content">Örömmel jelentjük be, hogy nevet változtattunk! Az alkalmazás naprakész, és be vagy jelentkezve a fiókodba.</string>
     <string name="disclaimer_negative_button">ÉRTEM</string>
     <string name="disclaimer_positive_button">TOVÁBBI INFORMÁCIÓK</string>
@@ -1908,7 +1908,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="settings_security_pin_code_change_pin_summary">Jelenlegi PIN kód megváltoztatása</string>
     <string name="settings_security_pin_code_change_pin_title">PIN megváltoztatása</string>
     <string name="settings_security_pin_code_grace_period_summary_off">${app_name} megnyitásához mindig PIN kód szükséges.</string>
-    <string name="settings_security_pin_code_grace_period_summary_on">Ha 2 percnél hosszabb ideig nem használod az ${app_name} Element alkalmazást, PIN kódot fog kérni.</string>
+    <string name="settings_security_pin_code_grace_period_summary_on">Ha 2 percnél hosszabb ideig nem használod az ${app_name} PL Comms alkalmazást, PIN kódot fog kérni.</string>
     <string name="settings_security_pin_code_grace_period_title">2 perc elteltével PIN szükséges</string>
     <string name="settings_security_pin_code_use_biometrics_summary_on">Eszköz specifikus biometrikus azonosítás engedélyezése, mint ujjlenyomat vagy arcfelismerés.</string>
     <plurals name="entries">
@@ -2550,7 +2550,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="ftue_auth_terms_subtitle">Kérünk, olvasd el a %s szerver felhasználási feltételeit</string>
     <string name="ftue_auth_terms_title">Szerver szabályok</string>
     <string name="ftue_auth_choose_server_ems_cta">Kapcsolatfelvétel</string>
-    <string name="ftue_auth_choose_server_ems_subtitle">Az Element Matrix Services (EMS) egy robosztus és megbízható szerver üzemeltetési szolgáltatás a gyors és biztonságos kommunikáció céljaira. Tudj meg többet itt: <a href="${ftue_ems_url}">element.io/ems</a></string>
+    <string name="ftue_auth_choose_server_ems_subtitle">Az PL Comms Matrix Services (EMS) egy robosztus és megbízható szerver üzemeltetési szolgáltatás a gyors és biztonságos kommunikáció céljaira. Tudj meg többet itt: <a href="${ftue_ems_url}">element.io/ems</a></string>
     <string name="ftue_auth_choose_server_ems_title">Szeretnél egy saját szervert\?</string>
     <string name="ftue_auth_choose_server_entry_hint">Szerver URL</string>
     <string name="ftue_auth_choose_server_sign_in_subtitle">Mi a szervered címe\?</string>
@@ -2565,8 +2565,8 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="ftue_auth_create_account_choose_server_header">Itt lesznek tárolva a beszélgetéseid</string>
     <string name="ftue_auth_choose_server_subtitle">Mi a szervered címe\? Itt lesz tárolva az összes üzeneted</string>
     <string name="auth_reset_password_error_unverified">Az email cím nem lett ellenőrizve, kérlek nézd meg a beérkező email-jeidet</string>
-    <string name="labs_enable_element_call_permission_shortcuts_summary">Element Call kisalkalmazás kamera és mikrofon használatának automatikus engedélyezése</string>
-    <string name="labs_enable_element_call_permission_shortcuts">Element Call jogosultságok engedélyezése</string>
+    <string name="labs_enable_element_call_permission_shortcuts_summary">PL Comms Call kisalkalmazás kamera és mikrofon használatának automatikus engedélyezése</string>
+    <string name="labs_enable_element_call_permission_shortcuts">PL Comms Call jogosultságok engedélyezése</string>
     <plurals name="room_removed_messages">
         <item quantity="one">%d üzenet eltávolítva</item>
         <item quantity="other">%d üzenet eltávolítva</item>
@@ -2704,7 +2704,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="device_manager_verification_status_detail_current_session_verified">Az aktuális munkamenet készen áll a biztonságos üzenetküldésre.</string>
     <string name="labs_enable_deferred_dm_summary">Közvetlen beszélgetés indítása csak az első üzenettel</string>
     <string name="labs_enable_deferred_dm_title">Késleltetett közvetlen üzenetek engedélyezése</string>
-    <string name="labs_enable_new_app_layout_summary">Egyszerűsített Element opcionálisan lapokkal</string>
+    <string name="labs_enable_new_app_layout_summary">Egyszerűsített PL Comms opcionálisan lapokkal</string>
     <string name="labs_enable_new_app_layout_title">Új kinézet engedélyezése</string>
     <string name="device_manager_learn_more_session_rename">Más felhasználók akikkel közvetlenül vagy szobában beszélgetsz látják a teljes listát a munkameneteidről.
 \n

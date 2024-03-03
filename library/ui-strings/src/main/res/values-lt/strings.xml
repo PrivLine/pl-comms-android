@@ -1407,8 +1407,8 @@
     <string name="notice_direct_room_update">%s atnaujino čia.</string>
     <string name="login_a11y_captcha_container">Atlikite captcha iššūkį</string>
     <string name="login_a11y_choose_other">Pasirinkti pasirinktinį namų serverį</string>
-    <string name="login_a11y_choose_modular">Pasirinkti Element Matrix Services</string>
-    <string name="login_a11y_choose_matrix_org">Pasirinkti matrix.org</string>
+    <string name="login_a11y_choose_modular">Pasirinkti PL Comms Matrix Services</string>
+    <string name="login_a11y_choose_matrix_org">Pasirinkti mtxnode1.privateline.dev</string>
     <string name="login_signup_cancel_confirmation_content">Jūsų paskyra dar nesukurta. Sustabdyti registracijos procesą\?</string>
     <string name="login_signup_cancel_confirmation_title">Perspėjimas</string>
     <string name="login_signup_error_user_in_use">Šis vartotojo vardas yra užimtas</string>
@@ -1453,17 +1453,17 @@
 \nAr norite prisijungti naudodami žiniatinklio klientą\?</string>
     <string name="login_sso_error_message">Įkeliant puslapį įvyko klaida: %1$s (%2$d)</string>
     <string name="login_server_url_form_common_notice">Įveskite norimo naudoti serverio adresą</string>
-    <string name="login_server_url_form_modular_notice">Įveskite adresą Modular Element arba serverio kurį norite naudoti</string>
+    <string name="login_server_url_form_modular_notice">Įveskite adresą Modular PL Comms arba serverio kurį norite naudoti</string>
     <string name="login_server_url_form_modular_text">Aukščiausios kokybės talpinimas organizacijoms</string>
     <string name="login_server_url_form_other_hint">Adresas</string>
-    <string name="login_server_url_form_modular_hint">Element Matrix Services Adresas</string>
+    <string name="login_server_url_form_modular_hint">PL Comms Matrix Services Adresas</string>
     <string name="login_clear_homeserver_history">Išvalyti istoriją</string>
     <string name="login_signin_sso">Tęsti su vienkartiniu prisijungimu</string>
     <string name="login_signin">Prisijungti</string>
     <string name="login_signup">Registruotis</string>
     <string name="login_signin_to">Prisijungti prie %1$s</string>
     <string name="login_connect_to_a_custom_server">Prisijungti prie pasirinktinio serverio</string>
-    <string name="login_connect_to_modular">Prisijungti prie Element Matrix Services</string>
+    <string name="login_connect_to_modular">Prisijungti prie PL Comms Matrix Services</string>
     <string name="login_connect_to">Prisijungti prie %1$s</string>
     <string name="login_continue">Tęsti</string>
     <string name="login_social_sso">vienkartinis prisijungimas</string>
@@ -1930,7 +1930,7 @@
     <string name="ftue_auth_terms_title">Serverio politikos</string>
     <string name="ftue_auth_reset_password_breaker_title">Patikrinkite savo el. paštą.</string>
     <string name="ftue_auth_choose_server_ems_cta">Susisiekite su mumis</string>
-    <string name="ftue_auth_choose_server_ems_subtitle">Element Matrix Services (EMS) yra tvirta ir patikima talpinimo paslauga, skirta greitam ir saugiam bendravimui realiuoju laiku. Sužinokite, kaip &lt;a href=\"${ftue_ems_url}\"&gt;element.io/ems&lt;/a&gt;</string>
+    <string name="ftue_auth_choose_server_ems_subtitle">PL Comms Matrix Services (EMS) yra tvirta ir patikima talpinimo paslauga, skirta greitam ir saugiam bendravimui realiuoju laiku. Sužinokite, kaip &lt;a href=\"${ftue_ems_url}\"&gt;element.io/ems&lt;/a&gt;</string>
     <string name="ftue_auth_choose_server_ems_title">Norite turėti savo serverį\?</string>
     <string name="ftue_auth_reset_password_email_subtitle">%s atsiųs jums patvirtinimo nuorodą</string>
     <string name="ftue_auth_choose_server_entry_hint">Serverio URL</string>
@@ -2092,7 +2092,7 @@
     <string name="labs_swipe_to_reply_in_timeline">Įjungti perbraukimą, kad atsakytumėte laiko juostoje</string>
     <string name="search_hint_room_name">Ieškoti pavadinimo</string>
     <string name="user_directory_search_hint_2">Ieškoti pagal vardą, ID arba paštą</string>
-    <string name="room_directory_search_hint">Pavadinimas arba ID (#pavyzdys:matrix.org)</string>
+    <string name="room_directory_search_hint">Pavadinimas arba ID (#pavyzdys:mtxnode1.privateline.dev)</string>
     <string name="room_filtering_footer_open_room_directory">Peržiūrėti kambarių katalogą</string>
     <string name="room_filtering_footer_create_new_direct_message">Siųsti naują tiesioginę žinutę</string>
     <string name="bottom_action_people_x">Tiesioginės žinutės</string>
@@ -2180,6 +2180,6 @@
     <string name="a11y_open_settings">Atidaryti nustatymus</string>
     <string name="labs_enable_deferred_dm_summary">Sukurti AŽ tik po pirmos žinutės</string>
     <string name="labs_enable_deferred_dm_title">Įjungti atidėtas AŽ</string>
-    <string name="labs_enable_new_app_layout_summary">Supaprastintas Element su nebūtinais skirtukais</string>
+    <string name="labs_enable_new_app_layout_summary">Supaprastintas PL Comms su nebūtinais skirtukais</string>
     <string name="labs_enable_new_app_layout_title">Įjungti naują išdėstymą</string>
 </resources>
