@@ -632,16 +632,16 @@
     <string name="login_server_other_text">Kohandatud seadistused</string>
     <string name="login_continue">Jätka</string>
     <string name="login_connect_to">Ühenda koduserveriga %1$s</string>
-    <string name="login_connect_to_modular">Ühenda teenusepakkujaga Element Matrix Services</string>
+    <string name="login_connect_to_modular">Ühenda teenusepakkujaga PL Comms Matrix Services</string>
     <string name="login_connect_to_a_custom_server">Ühenda kohandatud koduserveriga</string>
     <string name="login_signin_to">Logi sisse koduserverisse %1$s</string>
     <string name="login_signup">Registreeru</string>
     <string name="login_signin">Logi sisse</string>
     <string name="login_signin_sso">Jätka kasutades SSO\'d ehk ühekordset autentimist</string>
-    <string name="login_server_url_form_modular_hint">Element Matrix Services teenuse aadress</string>
+    <string name="login_server_url_form_modular_hint">PL Comms Matrix Services teenuse aadress</string>
     <string name="login_server_url_form_other_hint">Aadress</string>
     <string name="login_server_url_form_modular_text">Tasuline Matrix\'i majutusteenus organisatsioonidele</string>
-    <string name="login_server_url_form_modular_notice">Sisesta Modular Element teenuse või muu serveri aadress, mida sa soovid kasutada</string>
+    <string name="login_server_url_form_modular_notice">Sisesta Modular PL Comms teenuse või muu serveri aadress, mida sa soovid kasutada</string>
     <string name="login_server_url_form_common_notice">Sisesta serveri aadress, mida sa soovid kasutada</string>
     <string name="login_sso_error_message">Lehe laadimisel tekkis viga %1$s (%2$d)</string>
     <string name="login_mode_not_supported">See rakendus ei saa sisse logida antud koduserverisse. See koduserver toetab järgmisi sisselogimise tüüp(e): %1$s.
@@ -1178,7 +1178,7 @@
     <string name="edited_suffix">(muudetud)</string>
     <string name="message_edits">Sõnumite muutmised</string>
     <string name="no_message_edits_found">Muutmisi ei leidunud</string>
-    <string name="room_directory_search_hint">Nimi või kasutajatunnus (#example:matrix.org)</string>
+    <string name="room_directory_search_hint">Nimi või kasutajatunnus (#example:mtxnode1.privateline.dev)</string>
     <string name="labs_swipe_to_reply_in_timeline">Luba vastamine ajajoonel viipamisega</string>
     <string name="link_copied_to_clipboard">Link on kopeeritud lõikelauale</string>
     <string name="creating_direct_room">Loon jututuba…</string>
@@ -1238,8 +1238,8 @@
     <string name="login_signup_error_user_in_use">Selline kasutajanimi on juba olemas</string>
     <string name="login_signup_cancel_confirmation_title">Hoiatus</string>
     <string name="login_signup_cancel_confirmation_content">Sinu kasutajakonto pole veel loodud. Kas katkestame konto registreerimise\?</string>
-    <string name="login_a11y_choose_matrix_org">Vali matrix.org</string>
-    <string name="login_a11y_choose_modular">Vali teenusepakkujaks Element Matrix Services</string>
+    <string name="login_a11y_choose_matrix_org">Vali mtxnode1.privateline.dev</string>
+    <string name="login_a11y_choose_modular">Vali teenusepakkujaks PL Comms Matrix Services</string>
     <string name="login_a11y_choose_other">Vali mõni muu koduserver</string>
     <string name="login_a11y_captcha_container">Palun tee läbi robotilõksu katse</string>
     <string name="login_terms_title">Jätkamiseks nõustu kasutustingimustega</string>
@@ -1372,7 +1372,7 @@
     <string name="crypto_error_withheld_unverified">Sa ei saa seda sõnumit lugeda, kuna saatja ei usalda sinu sessiooni</string>
     <string name="crypto_error_withheld_generic">Sa ei saa seda sõnumit lugeda, kuna saatja teadlikult ei saatnud vajalikke võtmeid</string>
     <string name="notice_crypto_unable_to_decrypt_merged">Ootan krüptimise ajalugu</string>
-    <string name="disclaimer_title">Riot\'i uus nimi on Element!</string>
+    <string name="disclaimer_title">Riot\'i uus nimi on PL Comms!</string>
     <string name="disclaimer_content">Meil on hea meel teatada, et oleme muutnud nime! Sinu rakendus on uuendatud ning sa oled oma kontole sisse logitud.</string>
     <string name="disclaimer_negative_button">Selge lugu</string>
     <string name="disclaimer_positive_button">Vaata lisateavet</string>
@@ -2553,7 +2553,7 @@
     <string name="ftue_auth_terms_subtitle">Palun loe läbi %s serveri kasutustingimused ja reeglid</string>
     <string name="ftue_auth_terms_title">Serveri reeglid</string>
     <string name="ftue_auth_choose_server_ems_cta">Võta meiega ühedust</string>
-    <string name="ftue_auth_choose_server_ems_subtitle">Element Matrix Services (EMS) on toimiv ja usaldusväärne serveriteenus kiireks ja turvaliseks suhtluseks. Lisateave <a href="${ftue_ems_url}">element.io/ems</a></string>
+    <string name="ftue_auth_choose_server_ems_subtitle">PL Comms Matrix Services (EMS) on toimiv ja usaldusväärne serveriteenus kiireks ja turvaliseks suhtluseks. Lisateave <a href="${ftue_ems_url}">element.io/ems</a></string>
     <string name="ftue_auth_choose_server_ems_title">Kas soovid et sul oleks oma serveriteenus\?</string>
     <string name="ftue_auth_choose_server_entry_hint">Serveri url</string>
     <string name="ftue_auth_choose_server_subtitle">Mis on sinu serveri aadress\? Mingis mõttes on see sinu andmete kodu</string>
@@ -2569,8 +2569,8 @@
     <string name="font_size_section_manually">Vali ise</string>
     <string name="font_size_section_auto">Määra automaatselt</string>
     <string name="font_size_title">Vali kirjatüübi suurus</string>
-    <string name="labs_enable_element_call_permission_shortcuts_summary">Automaatsel luba kasutada Element\'i põhiste kõnede vidinaid ning luba ligipääs kaamerale ja mikrofonile</string>
-    <string name="labs_enable_element_call_permission_shortcuts">Võta kasutsele Element\'i põhiste kõnede õiguste kiirnupud</string>
+    <string name="labs_enable_element_call_permission_shortcuts_summary">Automaatsel luba kasutada PL Comms\'i põhiste kõnede vidinaid ning luba ligipääs kaamerale ja mikrofonile</string>
+    <string name="labs_enable_element_call_permission_shortcuts">Võta kasutsele PL Comms\'i põhiste kõnede õiguste kiirnupud</string>
     <string name="live_location_description">Asukoht reaalajas</string>
     <string name="verify_invalid_qr_notice">See QR-kood tundub olema vigane. Palun proovi verifitseerimist mõne muu meetodiga.</string>
     <string name="crosssigning_cannot_verify_this_session_desc">Sa ei saa lugeda varasemaid krüptitud sõnumeid. Uuesti alustamiseks seadista varundusvõtmed ja verifitseerimisvõtmed.</string>
@@ -2695,7 +2695,7 @@
     <string name="device_manager_verification_status_detail_current_session_verified">Sinu praegune sessioon on valmis turvaliseks sõnumivahetuseks.</string>
     <string name="labs_enable_deferred_dm_summary">Alusta otsevestlust esimese sõnumiga</string>
     <string name="labs_enable_deferred_dm_title">Võta kasutusele viivitusega otsevestlused</string>
-    <string name="labs_enable_new_app_layout_summary">Lihtsustatud Element valikuliste kaartidega</string>
+    <string name="labs_enable_new_app_layout_summary">Lihtsustatud PL Comms valikuliste kaartidega</string>
     <string name="labs_enable_new_app_layout_title">Võta kasutusele rakenduse uus välimus</string>
     <string name="room_settings_global_block_unverified_info_text">🔒 Sa oled rakenduse turvaseadistustes määranud, et krüptimine kehtib vaid verifitseeritud sessioonidele.</string>
     <string name="some_devices_will_not_be_able_to_decrypt">⚠ Selles jututoas on verifitseerimata seadmeid, mis ei saa sinu saadetud sõnumeid dekrüptida.</string>
@@ -2829,7 +2829,7 @@
     <string name="error_voice_broadcast_unauthorized_title">Uue ringhäälingukõne alustamine pole võimalik</string>
     <string name="a11y_voice_broadcast_fast_backward">Keri tagasi 30 sekundi kaupa</string>
     <string name="a11y_voice_broadcast_fast_forward">Keri edasi 30 sekundi kaupa</string>
-    <string name="device_manager_learn_more_sessions_verified_description">Verifitseeritud sessioonideks loetakse Element\'is või mõnes muus Matrix\'i rakenduses selliseid sessioone, kus sa kas oled sisestanud oma salafraasi või tuvastanud end mõne teise oma verifitseeritud sessiooni abil.
+    <string name="device_manager_learn_more_sessions_verified_description">Verifitseeritud sessioonideks loetakse PL Comms\'is või mõnes muus Matrix\'i rakenduses selliseid sessioone, kus sa kas oled sisestanud oma salafraasi või tuvastanud end mõne teise oma verifitseeritud sessiooni abil.
 \n
 \nSee tähendab, et selles sessioonis on ka kõik vajalikud võtmed krüptitud sõnumite lugemiseks ja teistele kasutajatele kinnitamiseks, et sa usaldad seda sessiooni.</string>
     <plurals name="device_manager_other_sessions_multi_signout_all">
