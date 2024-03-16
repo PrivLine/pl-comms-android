@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "912726360885",
-    "firebase_url": "https://vector-alpha.firebaseio.com",
-    "project_id": "vector-alpha",
-    "storage_bucket": "vector-alpha.appspot.com"
+    "firebase_url": "https://pl-comms.firebaseio.com",
+    "project_id": "pl-comms",
+    "storage_bucket": "pl-comms.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:912726360885:android:4ef8f3a0021e774d",
         "android_client_info": {
-          "package_name": "im.vector.app.nightly"
+          "package_name": "dev.privateline.im.nightly"
         }
       },
       "oauth_client": [
